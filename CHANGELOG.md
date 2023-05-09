@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.1](https://github.com/lemoe-technology/action-test/compare/action-test-v1.1.0...action-test-v1.1.1) (2023-05-09)
+
+
+### Bug Fixes
+
+* test ([8053523](https://github.com/lemoe-technology/action-test/commit/80535237525f7d2acf679b7ef922fead02d5142d))
+* test ([723ce86](https://github.com/lemoe-technology/action-test/commit/723ce8691931089cb6db5a7a8d14c78af03f49e5))
+
 ## [1.1.0](https://github.com/lemoe-technology/action-test/compare/action-test-v1.0.0...action-test-v1.1.0) (2023-05-09)
 
 
