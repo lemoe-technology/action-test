@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/lemoe-technology/action-test/compare/a-v1.0.0...a-v1.0.1) (2023-05-09)
+
+
+### Bug Fixes
+
+* **a:** test ([22f4473](https://github.com/lemoe-technology/action-test/commit/22f4473b0ff4dd2c9d06cd3f0d356256a7e9ea2e))
+
 ## 1.0.0 (2023-05-09)
 
 
