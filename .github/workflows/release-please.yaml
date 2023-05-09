@@ -12,6 +12,7 @@ jobs:
         with:
           release-type: node
           command: manifest
+          path: packages
           monorepo-tags: true
       - uses: actions/checkout@v3
         if: ${{ steps.release.outputs.release_created }}
